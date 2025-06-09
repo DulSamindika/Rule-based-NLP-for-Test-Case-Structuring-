@@ -1,0 +1,3 @@
+Verify that the login form accepts a valid email and password.
+Check if the password reset link works as expected.
+Ensure the submit button is disabled when the form is incomplete.
